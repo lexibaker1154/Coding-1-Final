@@ -1,9 +1,8 @@
 h1 {
-    color: rgba(153, 0, 255, 0.829);
+    color: black;
     text-align: center;
     font-family: garamond;
     font-size: 50px
-    boarder-color: black;
 }
 p {
     font-size: 25px;
@@ -18,4 +17,24 @@ p {
   }
 body {
     background-color: aquamarine;
+}
+.contact {
+    text-align: center;
+    padding-top: 10%;
+}
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+    padding-top: 10%;
+}
+.sleepy {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+    padding-top: 10%;
 }
